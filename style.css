@@ -17,10 +17,14 @@ body {
 
 h1 {
   margin: 10px;
+  color: grey;
+  font-size: 58px;
+  font-weight: 300;
+  text-shadow: lightgray;
 }
 
 .box {
-  background-color: steelblue;
+  background-color: grey;
   color: #fff;
   display: flex;
   align-items: center;
